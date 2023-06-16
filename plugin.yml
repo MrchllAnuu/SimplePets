@@ -1,7 +1,7 @@
 name: SimplePets
 main: brokiem\simplepets\SimplePets
-version: 1.0.0-beta
-api: 4.0.0
+version: 2.0.0-beta+dev
+api: 5.0.0
 authors: [ "broki", "brokiem", "broski" ]
 
 website: https://github.com/brokiem/SimplePets
